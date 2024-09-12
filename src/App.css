@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.356),
+      rgba(136, 66, 20, 0.498)
+    ),
+    url("./assets/images/a2c3df7df5bedb0a6a581d1b3835972f.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: #000;
+}
